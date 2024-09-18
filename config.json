@@ -1,0 +1,32 @@
+{
+    "bot_token": "MTI4NTk1Mzk0NTYyMDk3MTU1MQ.GtX949.Zii0HxnCPEPAgkVmmno2eThPfgy5p1YZllTPQM",
+    "owner_id": 1276934328055762975,
+    "server_id": 1285951484588199966,
+    "bot_status": "discord.gg/FRJx7T3UYN",
+    "free_gen": {
+        "free_gen_role": 1285954238916333599,
+        "free_gen_channel": 1285951558584107108,
+        "free_gen_status": "discord.gg/FRJx7T3UYN",
+        "status_log_channel": 1285951485028470845,
+        "free_gen_cooldown": 3600,
+        "free_gen_folder": "stocks/stock"
+    },
+    "boost_gen": {
+        "boost_gen_role": 1285954855499862056,
+        "boost_gen_channel": 1285955119174778930,
+        "boost_gen_cooldown": 1200,
+        "boost_gen_folder": "stocks/boost_gen_stock"
+    },
+    "premium_gen": {
+        "premium_gen_role": 1285955286137442346,
+        "premium_gen_channel": 1285951592708964413,
+        "premium_gen_cooldown": 120,
+        "premium_gen_folder": "stocks/premium_gen_stock"
+    },
+    "logs": {
+        "free_gen_log_webhook": "https://discord.com/api/webhooks/1285955729819435081/-yCqbdgyqUWxYtDRvLPG-a5MuW2pfgOBgDxkMzcs8NEzhejnRE8hZYGmijhtWeNwxPL_",
+        "booster_gen_log_webhook": "https://discord.com/api/webhooks/1285955831468134432/3FzIOQWvKfmewOp4n-q6NsDOKIDuZofcwMmWabUk7iE8BxiD9qQNDv6TebN89IgNoysH",
+        "premium_gen_log_webhook": "https://discord.com/api/webhooks/1285956006660014082/L6abWXh2kCpNK2DSmB5wA83PDnEzv2eg2cxAhvFsyEsvC2dA82gDhXaeSguEbqSc7MDy",
+        "admin_commands_log_webhook": "https://discord.com/api/webhooks/1285956095742836839/8O8LhDQ7kahMCJ0bJltrRHVy_RCJo808AEYCKLhgnIVv5t4Wq-Ex2fh4kjm8iDmP5VNp"
+    }
+}
